@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AAA3C797-5DC9-4550-AACD-24D825FE77B5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C4E598B4-6DF9-4352-97EE-17162DABF6B0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatUser1/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "openChat(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F27BD510-C1E6-49F7-88D1-6F08F441B733"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Controllers/ChannelController/ChannelController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "channelController(for:channelListQuery:messageOrdering:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09A3E2D3-02B0-42D2-B9A2-DA0DA0D43C9D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Controllers/ChannelController/ChannelController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "channelController(for:channelListQuery:messageOrdering:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D043B386-7B59-4B54-AE78-1E5E498E18A9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Controllers/ChannelController/ChannelController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "ChatChannelController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D043B386-7B59-4B54-AE78-1E5E498E18A9 - 85b806a96637370b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StreamChat.ChatChannelController.__allocating_init() -&gt; StreamChat.ChatChannelController"
+                  moduleName = "chatUser1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chinmaynagar/Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Controllers/ChannelController/ChannelController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "D043B386-7B59-4B54-AE78-1E5E498E18A9 - 34994623058592fd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StreamChat.ChatChannelController.init() -&gt; StreamChat.ChatChannelController"
+                  moduleName = "chatUser1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chinmaynagar/Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Controllers/ChannelController/ChannelController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "166"
+                  endingLineNumber = "166"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "D043B386-7B59-4B54-AE78-1E5E498E18A9 - 1b09255f1d99899d"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StreamChat.ChatChannelController.deinit"
+                  moduleName = "chatUser1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chinmaynagar/Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Controllers/ChannelController/ChannelController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D043B386-7B59-4B54-AE78-1E5E498E18A9 - b6012e671f0b3108"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StreamChat.ChatChannelController.__deallocating_deinit"
+                  moduleName = "chatUser1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chinmaynagar/Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Controllers/ChannelController/ChannelController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95537F8B-BA64-4388-8DF4-AE72D4E2743C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/Navigation/ChatChannelListRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "showChannel(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2E740FD0-E996-4F73-B1E3-F788131AF2E2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "chatUser1/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A06CA98A-46EE-4A32-A4D3-1082C6EA6E25"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/Navigation/ChatChannelListRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "showChannel(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53E0DD3D-E53D-436D-87BC-1BC835327DE8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChatUI/Navigation/ChatChannelListRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "showChannel(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "650B1F6C-FE3A-4582-943A-E1CB57FB9F20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Models/ChannelId.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "ChannelId"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BCED6BB-4919-4D08-9C60-A389A3F40138"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Models/ChannelId.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "init(cid:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B0D8BAF5-F8AD-4925-807B-A29E0E39894E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Models/ChannelId.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ChannelId"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7EB52BFB-F618-47EA-9A39-2358684BB68F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Library/Developer/Xcode/DerivedData/chatUser1-askqnkucgpivmsbsfejbueynkaed/SourcePackages/checkouts/stream-chat-swift/Sources/StreamChat/Models/ChannelId.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ChannelId"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

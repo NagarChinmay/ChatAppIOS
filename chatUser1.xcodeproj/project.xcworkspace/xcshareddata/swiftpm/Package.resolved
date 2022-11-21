@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Difference",
+        "repositoryURL": "https://github.com/krzysztofzablocki/Difference.git",
+        "state": {
+          "branch": null,
+          "revision": "02fe1111edc8318c4f8a0da96336fcbcc201f38b",
+          "version": "1.0.1"
+        }
+      },
+      {
+        "package": "StreamChat",
+        "repositoryURL": "https://github.com/getstream/stream-chat-swift",
+        "state": {
+          "branch": null,
+          "revision": "f537e7d25f3e2cc4ef3222f9183bbcbfe96e7760",
+          "version": "4.24.0"
+        }
+      },
+      {
+        "package": "StreamChatTestHelpers",
+        "repositoryURL": "https://github.com/GetStream/stream-chat-swift-test-helpers.git",
+        "state": {
+          "branch": null,
+          "revision": "237da98e4946ed8e2dac51d9e82e713b0d47a298",
+          "version": "0.2.5"
+        }
+      },
+      {
+        "package": "Swifter",
+        "repositoryURL": "https://github.com/httpswift/swifter",
+        "state": {
+          "branch": null,
+          "revision": "9483a5d459b45c3ffd059f7b55f9638e268632fd",
+          "version": "1.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
